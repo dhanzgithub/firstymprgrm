@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public static void main(String args[])
 {
-  System.out.println("HI FRIENDS");
-  System.out.println("THIS IS MY FIRST PROGRAM ON GITHUB");
+  System.out.println("HOW ARE YOU");
+  System.out.println("HOPE YOU ARE FINE");
 }
